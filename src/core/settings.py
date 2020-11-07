@@ -28,7 +28,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     "apps.pages",
-    "django_heroku"
+    # "django_heroku"
 ]
 
 MIDDLEWARE = [
