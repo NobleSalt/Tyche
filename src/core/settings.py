@@ -14,7 +14,7 @@ SECRET_KEY = 'jkf#a+@i5fb=to40l$j)1&09t8f8+^3%r76np17a=+gl)del^u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://tyche-pages.herokuapp.com/', 'http://localhost:8000']
 
 
 # Application definition
