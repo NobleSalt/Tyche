@@ -1,5 +1,5 @@
 asgiref==3.2.10
-astroid @ file:///C:/ci/astroid_1592487315634/work
+astroid
 attrs==20.2.0
 autobahn==20.7.1
 Automat==20.2.0
