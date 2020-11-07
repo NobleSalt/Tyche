@@ -48,3 +48,5 @@ txaio==20.4.1
 urllib3==1.25.11
 wrapt==1.11.2
 zope.interface==5.1.2
+whitenoise
+django-heroku
